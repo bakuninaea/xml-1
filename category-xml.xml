@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parent category>
+   <name>Название категории</name>
+   <description>Описание категории</description>
+   <picture>Картинка</picture>
+   <child category>подкатегория</child category>
+</parent category>
