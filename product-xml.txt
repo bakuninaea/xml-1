@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<product>
-   <name>Название продукта</name>
-   <description>Описание продукта</description>
-   <picture>Картинка</picture>
-   <category>подкатегория</category>
-   <price>150000.00</price>
-</product>
