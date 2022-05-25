@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lesson>
+   <name>Название урока</name>
+   <description>Описание</description>
+   <required-or-not-required>Обязатальный</required-or-not-required>
+   <Tasks>Задание</Tasks>
+     <name>Название задания</name>
+	 <list-of-questions>Список вопросов</list-of-questions>
+	   <question1>Вопрос1</question1>
+	     <required-or-not-required1>Обязатальный</required-or-not-required1>
+	     <answer1>Ответ на вопрос 1</answer1>
+	   <question2>Вопрос2</question2>
+	     <required-or-not-required2>Обязатальный</required-or-not-required2>
+		 <answer2>Ответ на вопрос 2</answer2>
+	   <question3>Вопрос3</question3>
+	     <required-or-not-required3>Обязатальный</required-or-not-required3>
+		 <answer3>Ответ на вопрос 3</answer3>
+</<Lesson>>
