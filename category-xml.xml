@@ -5,3 +5,10 @@
    <picture>Картинка</picture>
    <child category>подкатегория</child category>
 </parent category>
+<product>
+   <name>Название продукта</name>
+   <description>Описание продукта</description>
+   <picture>Картинка</picture>
+   <category product>подкатегория</category product>
+   <price>150000.00</price>
+</product>
